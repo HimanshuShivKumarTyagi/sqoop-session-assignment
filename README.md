@@ -1,0 +1,1 @@
+# sqoop-session-assignment
